@@ -1,0 +1,62 @@
+[
+    {
+        "animal": "horse",
+        "image": "http://www.gifszone.com/content/layout/animal/animal_2.jpg"
+    },
+    {
+        "animal": "dog",
+        "image": "http://www.gifszone.com/content/layout/animal/animal_1.jpg"
+    },
+    {
+        "animal": "cat",
+        "image": "http://www.punjabigraphics.com/images/158/Sweet-Kitten-Animal-Image.jpg"
+    },
+    {
+        "animal": "penguin",
+        "image": "http://www.gifszone.com/content/layout/animal/animal_113.jpg"
+    },
+    {
+        "animal": "rabbit",
+        "image": "http://www.gifszone.com/content/layout/animal/animal_115.jpg"
+    },
+    {
+        "animal": "hippo",
+        "image": "http://www.gifszone.com/content/layout/animal/animal_90.jpg"
+    },
+    {
+        "animal": "koala",
+        "image": "http://www.gifszone.com/content/layout/animal/animal_3.jpg"
+    },
+    {
+        "animal": "lion",
+        "image": "http://www.gifszone.com/content/layout/animal/animal_32.jpg"
+    },
+    {
+        "animal": "fox",
+        "image": "http://www.gifszone.com/content/layout/animal/animal_59.jpg"
+    },
+    {
+        "animal": "deer",
+        "image": "http://www.gifszone.com/content/layout/animal/animal_57.jpg"
+    },
+    {
+        "animal": "wolf",
+        "image": "http://www.gifszone.com/content/layout/animal/animal_44.jpg"
+    },
+    {
+        "animal": "monkey",
+        "image": "http://www.gifszone.com/content/layout/animal/animal_78.jpg"
+    },
+    {
+        "animal": "giraffe",
+        "image": "http://www.gifszone.com/content/layout/animal/animal_52.jpg"
+    },
+    {
+        "animal": "dolphin",
+        "image": "http://www.gifszone.com/content/layout/animal/animal_9.jpg"
+    },
+    {
+        "animal": "cheetah",
+        "image": "http://www.gifszone.com/content/layout/animal/animal_74.jpg"
+    }
+]
